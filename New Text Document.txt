@@ -1,0 +1,35 @@
+div class=testimonial_section about-section
+        h5Chefsh5
+        h2OUR span style=color red;PROFESSIONAL CHEFSspanh2
+        div class=container mt-5
+            div class=row row-cols-1 row-cols-md-3 g-4
+                div class=col
+                    div class=card
+                        img src=chefs-1.jpg class=card-img-top alt=Card Image
+                        div class=card-body
+                            h5 class=card-titleCard 1h5
+                            p class=card-textThis is a description for Card 1.p
+                        div
+                    div
+                div
+                div class=col
+                    div class=card
+                        img src=chefs-2.jpg class=card-img-top alt=Card Image
+                        div class=card-body
+                            h5 class=card-titleCard 2h5
+                            p class=card-textThis is a description for Card 2.p
+                        div
+                    div
+                div
+                div class=col
+                    div class=card
+                        img src=chefs-3.jpg class=card-img-top alt=Card Image
+                        div class=card-body
+                            h5 class=card-titleCard 3h5
+                            p class=card-textThis is a description for Card 3.p
+                        div
+                    div
+                div
+            div
+        div
+    div
